@@ -1,16 +1,19 @@
 main:
-  - name: "Services"
+  - name: "TCK Services"
     url: "/services/"
     weight: 2
-  - name: "Team"
-    url: "/team/"
+  - name: "TCK Products"
+    url: "/products/"
     weight: 3
-  - name: "About"
-    url: "/about/"
+  - name: "TCK Team"
+    url: "/team/"
     weight: 4
+  - name: "About TCK"
+    url: "/about/"
+    weight: 5
   - name: "Contact"
     url: "/contact/"
-    weight: 5
+    weight: 6
 
 footer:
   - name: "Home"
