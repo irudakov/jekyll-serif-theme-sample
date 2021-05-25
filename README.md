@@ -57,18 +57,6 @@ bundle exec jekyll build
 
 ## Deployment
 
-### Stackbit
-
-Use Stackbit to deploy this theme. This theme contains a valid and tested `stackbit.yaml`
-
-[![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/zerostaticthemes/jekyll-serif-theme)
-
-### Netlify
-
-Use Netlify to deploy this theme. This theme contains a valid and tested `netlify.toml` - Feel free to use the 1-click deploy below.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/zerostaticthemes/jekyll-serif-theme)
-
 ### Github Pages
 This theme has been tested to work with Github Pages (and Github Project Pages). When using Github Pages you will need to update the `baseurl` in the `_config.yml` otherwise all the css, images and paths will be broken.
 
