@@ -1,0 +1,8 @@
+{
+    "git.autofetch": true,
+    "git.scanRepositories": [
+        "C:\\Users\\I019458\\workspaces"
+    ],
+    "git.showPushSuccessNotification": true,
+    "git.terminalAuthentication": false
+}
