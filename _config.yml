@@ -32,6 +32,8 @@ collections:
     output: true
   products:
     output: true
+  solutions:
+    output: true
 
 sass:
   indentWidth: 4
