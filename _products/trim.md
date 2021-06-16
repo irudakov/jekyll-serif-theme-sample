@@ -6,4 +6,6 @@ weight: 1
 layout: product
 ---
 
-## It's a plan product page for Trim
+## Test Results Intelligent Management   
+
+TCK proprietary service for intelligent processing, analysis, interpretation, reporting and evaluating of test results based on the classification of previous similar results and the expert opinion of the developers.   

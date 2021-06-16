@@ -6,4 +6,4 @@ weight: 1
 layout: product
 ---
 
-## It's a plan product page for kTest Platform
+## Platform for C++ Kernel patches validation

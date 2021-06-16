@@ -6,4 +6,6 @@ weight: 1
 layout: product
 ---
 
-## It's a plan product page for TestKit
+## Varity of test sets for different type of testing
+
+Technical Check supplies a complete range of test set for testing SAP kernels (middleware between application and оperating system and database), SAP Basis, SAP applications and SAP UI. 
