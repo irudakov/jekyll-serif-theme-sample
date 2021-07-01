@@ -7,6 +7,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# TCK landing - A template for TCK site.
+# Technical Check    
 
-TCK Landing contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Technical Check (TCK) is a collective term for a group of services, the ongoing development of specialized software and the team supporting these processes.   
+
