@@ -34,6 +34,8 @@ collections:
     output: true
   solutions:
     output: true
+  home_content:
+    output: true
 
 sass:
   indentWidth: 4
